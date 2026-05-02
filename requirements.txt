@@ -1,0 +1,32 @@
+# Smart Resume Classifier + Job Recommender
+# Recommended Python version: 3.10
+
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Deep Learning (PyTorch)
+torch
+torchvision
+torchaudio
+
+# NLP
+nltk
+spacy
+transformers
+sentence-transformers
+sentencepiece
+
+# Resume Parsing
+pdfplumber
+PyMuPDF
+python-docx
+
+# App / Deployment
+streamlit
+
+# Utilities
+joblib
+tqdm
